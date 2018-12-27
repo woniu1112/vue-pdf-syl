@@ -1,4 +1,4 @@
-##使用（use）
+## 使用
 ```
 npm install vue-pdf-syl --save
 npm install pdfjs-dist --save
